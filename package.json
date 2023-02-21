@@ -1,0 +1,22 @@
+{
+  "name": "cypress_e2e_appactions",
+  "version": "1.0.0",
+  "description": "Cypress E2E Test Using App Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshita-Bhasin/Cypress_E2E_AppActions.git"
+  },
+  "author": "Anshita Bhasin <anshita@propertyfinder.ae>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshita-Bhasin/Cypress_E2E_AppActions/issues"
+  },
+  "homepage": "https://github.com/Anshita-Bhasin/Cypress_E2E_AppActions#readme",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
